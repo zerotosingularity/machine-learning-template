@@ -1,5 +1,5 @@
 # machine-learning-template
-A Jupyter Notebook checklist to get you started 
+A Jupyter Notebook checklist to get you started.
 
 # Attribution
 The machine learning template is based on the checklist which is detailed in [Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron](http://shop.oreilly.com/product/0636920052289.do) with [code examples on github](https://github.com/ageron/handson-ml). 
